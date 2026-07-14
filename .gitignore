@@ -1,0 +1,6 @@
+# Local-only Substack drafts and exported figures (not published to this repo)
+Tabular/01-gbdt-as-kernel-weakness/article.md
+Tabular/01-gbdt-as-kernel-weakness/figures/
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
