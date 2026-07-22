@@ -1,6 +1,11 @@
 # Local-only Substack drafts and exported figures (not published to this repo)
 Tabular/01-gbdt-as-kernel-weakness/article.md
 Tabular/01-gbdt-as-kernel-weakness/figures/
+Tabular/02-mixture-of-expert/article.md
+Tabular/02-mixture-of-expert/figures/
 
 # Jupyter checkpoints
 **/.ipynb_checkpoints/
+
+# CatBoost training-log artifacts
+**/catboost_info/
